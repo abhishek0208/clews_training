@@ -12,11 +12,11 @@ Welcome to the CLEWS Training guide
 
    user/introduction
    user/concepts
+   user/optimisation
+   user/osemosys
    user/installation
-   user/tutorial_bas
-   user/tutorial_adv
-   
-
+   user/simple_model
+   user/scenarios
 
 
 Indices and tables

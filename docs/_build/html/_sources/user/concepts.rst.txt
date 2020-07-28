@@ -2,7 +2,21 @@
 Basic CLEWS concepts
 ====================
 
-This section shows simple examples. **This is bold**
+Energy, land-use, and water systems
+
+Energy
+------
+
+Land-use and land-use change
+----------------------------
+
+Water systems
+-------------
+
+Interlinkages
+-------------
+
+
 
 Don't do this
 -------------
