@@ -10,7 +10,3 @@ Solvers: glpsol, CBC
 
 Visualisation dashboard: Python, Cloud-based
 --------------------------------------------
-
-
-
-

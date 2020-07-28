@@ -17,7 +17,6 @@ Welcome to the CLEWS Training guide
    user/installation
    user/simple_model
    user/scenarios
-   
 
 
 Indices and tables
