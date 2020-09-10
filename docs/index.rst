@@ -12,9 +12,6 @@ Welcome to the CLEWS Training guide
 
    user/introduction
    user/outline
-   user/concepts
-   user/optimisation
-   user/osemosys
    user/installation
    user/module_1
    user/module_2
@@ -22,7 +19,6 @@ Welcome to the CLEWS Training guide
    user/module_4
    user/module_5
    user/module_6
-   user/scenarios
 
 
 Indices and tables
