@@ -1,4 +1,4 @@
 ==============
-Course Outlien
+Course Outline
 ==============
 
