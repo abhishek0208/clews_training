@@ -11,11 +11,17 @@ Welcome to the CLEWS Training guide
    :caption: Contents:
 
    user/introduction
+   user/outline
    user/concepts
    user/optimisation
    user/osemosys
    user/installation
-   user/simple_model
+   user/module_1
+   user/module_2
+   user/module_3
+   user/module_4
+   user/module_5
+   user/module_6
    user/scenarios
 
 
